@@ -2,7 +2,7 @@
 <? 
 // ----------------------------конфигурация-------------------------- // 
  
-$adminemail="admin@site.ru";  // e-mail админа 
+$adminemail="kalian48@yandex.ru";  // e-mail админа 
  
  
 $date=date("d.m.y"); // число.месяц.год 
